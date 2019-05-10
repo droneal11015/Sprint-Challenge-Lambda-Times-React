@@ -60,7 +60,7 @@ body {
   flex-direction: row;
   position: fixed;
   height: 44px;
-  background-color: #333;
+  background-color: #800000;
 }
 .top-bar .container {
   width: 100%;
@@ -197,7 +197,7 @@ body {
   align-items: center;
   flex-direction: row;
   color: #fff;
-  background-color: #333;
+  background-color: #800000;
   margin: 0 5px;
   padding: 2px 10px;
   font-size: 12px;
