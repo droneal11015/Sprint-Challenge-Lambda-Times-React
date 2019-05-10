@@ -14,6 +14,12 @@ const Cards = props => {
 
 // Make sure you include prop types for all of your incoming props
 
-
+Cards.proptypes = {
+  cards: PropTypes.arrayOf(
+    PropTypes.objectOf(
+      PropTypes.string
+    )
+  )
+}
 
 export default Cards; 
