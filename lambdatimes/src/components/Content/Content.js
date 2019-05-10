@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import Tabs from './Tabs';
 import Cards from './Cards';
 
+//SITE WILL ALSO BE DEPLOYED ON DANIONEAL.DEV
+
 // Importing our tab and card data. No need to change anything here.
 import { tabData, cardData } from '../../data';
 
